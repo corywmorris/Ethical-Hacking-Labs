@@ -18,6 +18,7 @@ To ensure no persistent listeners remained on the system, the following cleanup 
 All activities were performed in an isolated host-only network. No real-world targets were used. This is for educational purposes only.
 
 ## 🌐 Network Flow
+```text
 [Victim Browser] ---> [Attacker IP (Port 80)] ---> [Cloned Google Site]
       ^                      |                          |
       |                      v                          v

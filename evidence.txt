@@ -1,0 +1,4 @@
+LAB: 101Labs.net - Social Engineering Toolkit
+TARGET: Google Clone (HTTP)
+RESULT: Successful Credential Capture
+DATA: ghost_test@gmail.com / Darkness123!
